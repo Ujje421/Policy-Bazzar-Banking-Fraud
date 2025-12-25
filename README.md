@@ -35,8 +35,7 @@ This project involves exploratory data analysis (EDA), data preprocessing, featu
 ```
 Paisabazaar-Banking-Fraud-Analysis/
 │
-├── data/
-│   └── paisabazaar_data.csv
+├── for DataSet https://drive.google.com/file/d/13UCLoFw5mTu7D8jiah2SEEnln2yNrMxc/view?usp=sharing
 ├── fraud_analysis.ipynb
 ├── README.md
 └── requirements.txt
