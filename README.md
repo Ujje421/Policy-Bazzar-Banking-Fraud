@@ -37,13 +37,7 @@ Paisabazaar-Banking-Fraud-Analysis/
 │
 ├── data/
 │   └── paisabazaar_data.csv
-│
-├── notebooks/
-│   └── fraud_analysis.ipynb
-│
-├── images/
-│   └── visualizations.png
-│
+├── fraud_analysis.ipynb
 ├── README.md
 └── requirements.txt
 ```
